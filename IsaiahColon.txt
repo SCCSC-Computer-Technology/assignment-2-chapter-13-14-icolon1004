@@ -1,0 +1,8 @@
+Isaiah Colon
+
+I noticed you broke the trend of everyone putting the datagrid on the left-hand side and the groupboxes on the right. Love it. I immediately ran it without looking at the code, and I recommend a few things, although it all mostly works! Make sure to include error messages for things such as users inputting the wrong thing. I kinda hit random letters for the "Please enter the product number you would like to look up," and while it didn't crash the program, make sure to include an error message for users. Also, for the "Please enter the description of the Product," as I was trying to mess with it, the letters for the button disappeared and it quite working? I don't know if I messed something up or not, but I'm going to take the blame on that one. The only thing I noticed was that the "enter the max and min price..." did not work, but I will mention that in a minute. Love the clear button, and the tool tip, but don't forget to set tab order (I did too, don't worry).
+
+Like how ordered your comments are and how they are all the same (start with uppercase, no extra space). As for the "enter the max and min price..." with the min and max price, I continued to mess with it to see what exactly went wrong. I believe it is because it was written in three different references. The way I wrote it (although, it wasn't completely correct) was one reference with two radio buttons, one for min and one for max. I then inluded one text box where I asked the user to input a number to show prices that were above or below the number they selected. I don't believe your way was wrong, I feel like the question was written vague, so I've seen similar ways to yours and mine too. (hope that makes sense!)
+
+
+
