@@ -1,0 +1,12 @@
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\bin\Debug\ProductDB.mdf
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\bin\Debug\ProductDB_log.ldf
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\bin\Debug\assignment-2-chapter-13-14-icolon1004.exe.config
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\bin\Debug\assignment-2-chapter-13-14-icolon1004.exe
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\bin\Debug\assignment-2-chapter-13-14-icolon1004.pdb
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment-2-chapter-13-14-icolon1004.csproj.AssemblyReference.cache
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment_2_chapter_13_14_icolon1004.Form1.resources
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment_2_chapter_13_14_icolon1004.Properties.Resources.resources
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment-2-chapter-13-14-icolon1004.csproj.GenerateResource.cache
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment-2-chapter-13-14-icolon1004.csproj.CoreCompileInputs.cache
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment-2-chapter-13-14-icolon1004.exe
+C:\Users\icolo\source\repos\assignment-2-chapter-13-14-icolon1004\obj\Debug\assignment-2-chapter-13-14-icolon1004.pdb
