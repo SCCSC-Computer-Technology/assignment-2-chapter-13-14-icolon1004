@@ -1,0 +1,10 @@
+Positive
+-Code is extremely user friendly/well designed/ readable
+-Robustness of program is improved by use of try/catch
+-Solid understanding of LINQ
+
+Overall
+-LINQ is case sensitive by default, you can change that
+by using the String.Equals method with the StringComparison.OrdinalIgnoreCase 
+option. I think this will improve the overall practicality of the application.
+-include partial matches when searching for things like product number.
