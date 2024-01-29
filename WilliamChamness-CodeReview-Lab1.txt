@@ -1,0 +1,8 @@
+The code compiles, and it is well-documented. I believe that there is a lot of redundant code when passing a "ProductClass" object to the various functions.
+I think that a more readable approach is to instantiate the "ProductClass" object within many of the functions themselves rather than passing the objects in. In fact, the "ProductClass" class
+is simply a wrapper for all possible states that could be needed, and I strongly believe that this adds unnecessary complexity to the code as the purpose of the objects
+is not immediately obvious in Form1.cs.
+
+When clicking the clear button, the description label and button text disapear. Otherwise, everything seems to work as intended. One way my code is different is that I store
+the results of the user's inputs into variables instead of an object. There are ultimately no performance tradeoffs between the two, but I prefer my approach because 
+it is more obvious what I am doing with the user's inputs.
