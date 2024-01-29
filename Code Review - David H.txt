@@ -1,0 +1,15 @@
+[] I had no trouble getting the code to compile and populate the database grid on startup with no compiler warnings.
+
+[] The code is very readable with the methods isolated from the button click events.
+It is very well documented with comments within every code block. The buttons are given good names.
+
+[] I noticed the button for searching by description is missing its text property, but it is obvious what it does because the layout is consistent.
+The product description text property does not clear out when clear button is pressed. Those were the only two real issues.
+The try-catch for the price range button throws the same dialog if either text field fails to parse which makes the error a bit ambiguous if it was simply left blank or not a number value.
+To fix it would make the code for that method a lot less clean though.
+
+[] My project was a bit different in that I had a seperate solution for each problem.
+If I had combined the three sections into one solution I would have likely come up with a similar layout and code structure.
+I also did not create a separate class to be passed to my methods, but the implementation here works fine.
+
+[] I found the form layout to be clean and organized. I think the descriptive labels really helped me understand what button does what.
